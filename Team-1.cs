@@ -3,12 +3,12 @@ class Team
 {
 
 
-void  Mano1()
+void  Arul()
 {
     cout << "Manoharan's first method ";
 }
 
-void Mano2()
+void Arul()
 {
     cout << "Manoharan's second method";
 }

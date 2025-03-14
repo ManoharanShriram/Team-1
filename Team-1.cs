@@ -14,3 +14,15 @@ void Mano2()
 }
 
 }
+
+class Viswes{
+    void  Viswes()
+{
+    cout << "Manoharan's first method ";
+}
+
+void Viswes()
+{
+    cout << "Manoharan's second method";
+}
+}

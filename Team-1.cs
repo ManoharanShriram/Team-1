@@ -18,11 +18,11 @@ void Mano2()
 class Viswes{
     void  Viswes()
 {
-    cout << "Manoharan's first method ";
+    cout << "Vishweshwaran's first method ";
 }
 
 void Viswes()
 {
-    cout << "Manoharan's second method";
+    cout << "Vishweshwaran's second method";
 }
 }

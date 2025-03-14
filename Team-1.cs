@@ -5,11 +5,11 @@ class Team
 
 void  Arul()
 {
-    cout << "Manoharan's first method ";
+    cout << "Arul first method ";
 }
 
 void Arul()
 {
-    cout << "Manoharan's second method";
+    cout << "Arul second method";
 }
 }

@@ -14,3 +14,16 @@ void Mano2()
 }
 
 }
+
+class Nuttrenai{
+    void  Nutt1()
+{
+    cout << "Nuttrenai's first method ";
+}
+
+void Nutt2()
+{
+    cout << "Nuttrenai's second method";
+}
+
+}

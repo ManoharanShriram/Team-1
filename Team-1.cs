@@ -12,5 +12,4 @@ void Arul()
 {
     cout << "Manoharan's second method";
 }
-
 }
